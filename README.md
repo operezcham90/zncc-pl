@@ -1,3 +1,6 @@
+# Source
+To learn more of this project read [Development of Heterogeneous Systems Based on the Honeybee Search Algorithm for Video Tracking](https://www.researchgate.net/publication/355093993_Development_of_Heterogeneous_Systems_Based_on_the_Honeybee_Search_Algorithm_for_Video_Tracking), specifically Chapter 5 - Development of a SoC-FPGA Heterogeneous System.
+
 # Add Average block to project
 * Create a new Vivado project.
 * Create a new Block Design.
