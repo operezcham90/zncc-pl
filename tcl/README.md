@@ -1,8 +1,8 @@
 # Add Average block to project
-*Create a new Vivado project.
-*Create a new Block Design.
-*Run the [avg_block.tcl](https://github.com/operezcham90/zncc-pl) script, paste the contents into the console
-*Run the following command.
+* Create a new Vivado project.
+* Create a new Block Design.
+* Run the [avg_block.tcl](https://github.com/operezcham90/zncc-pl) script, paste the contents into the console
+* Run the following command.
 ```create_hier_cell_avg_block . avg_block_0```
 
 # Appendix - Hierarchy to TCL script
