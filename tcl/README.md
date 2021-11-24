@@ -1,7 +1,8 @@
 # Add Average block to project
 * Create a new Vivado project.
 * Create a new Block Design.
-* Run the [avg_block.tcl](https://github.com/operezcham90/zncc-pl/blob/main/tcl/avg_block.tcl) script, paste the contents into the console
+* Add [input_adapter.vhd](https://raw.githubusercontent.com/operezcham90/zncc-pl/main/vhdl/input_adapter.vhd) as a source file.
+* Run the [avg_block.tcl](https://raw.githubusercontent.com/operezcham90/zncc-pl/main/tcl/avg_block.tcl) script, paste the contents into the console
 * Run the following command.
 ```
 create_hier_cell_avg_block . avg_block_0
