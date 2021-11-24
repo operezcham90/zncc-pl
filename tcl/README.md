@@ -3,6 +3,7 @@
 * Create a new Block Design.
 * Run the [avg_block.tcl](https://github.com/operezcham90/zncc-pl/blob/main/tcl/avg_block.tcl) script, paste the contents into the console
 * Run the following command.
+
 ```create_hier_cell_avg_block . avg_block_0```
 
 # Appendix - Hierarchy to TCL script
